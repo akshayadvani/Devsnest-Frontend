@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: skyblue;
+}
+
+.container{
+    display:grid;
+    place-items: center;
+    
+}
+
+.upperDesign{
+    width:50vw;
+    height:12px;
+    background-color: red;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.data{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.seats{
+    margin-right: 900px;
+    font-size:22px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.remSeats{
+    font-size:22px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.main{
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+    padding:8px;
+    background-color: yellow;
+    margin-top:30px;
+    grid-column-gap: 2px;
+    grid-row-gap: 2px;
+    border-radius: 20px;
+}
+
+.smallDiv{
+    width:5vw;
+    height: 12vh;
+    background-color:rgb(37, 227, 14);
+    position: relative;
+    border: 1px solid black;
+}
+
+.show{
+    opacity:0.9;
+    background-color: red;
+}
+
+@media screen and (max-width:768px){
+    .data{
+        flex-direction: column;
+    }
+    .seats{
+        font-size: 14px;
+        margin-bottom: 1rem;
+    }
+
+    .remSeats{
+        font-size: 14px;
+        
+    }
+}
