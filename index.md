@@ -18,15 +18,13 @@ Syntax highlighted code block
 ``` -->
 
 ### [Day1](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%201/index.html)
-### [Day2](https://sneha-jha08.github.io/Web_dev_Devsnest/Frontend%20THA/DAY2/letter1.html)
-### [Day3](https://sneha-jha08.github.io/Web_dev_Devsnest/Frontend%20THA/DAY3/portfolio.html)
-### [Day4](https://sneha-jha08.github.io/Web_dev_Devsnest/Frontend%20THA/DAY4/clock.html)
-### [Day5](https://sneha-jha08.github.io/Web_dev_Devsnest/Frontend%20THA/DAY5/calculator.html)
-### [Day6](https://sneha-jha08.github.io/Web_dev_Devsnest/Frontend%20THA/DAY6/Day6THA.js)
-### [Day7](https://sneha-jha08.github.io/Web_dev_Devsnest/Frontend%20THA/DAY7/day7.js)
-### [Day8](https://sneha-jha08.github.io/Web_dev_Devsnest/Frontend%20THA/DAY8/day8.html)
-### [Day9](https://sneha-jha08.github.io/Web_dev_Devsnest/Frontend%20THA/DAY9/Seat_booking.html)
-### [Day10](https://sneha-jha08.github.io/Web_dev_Devsnest/Frontend%20THA/DAY10/mem_gam.html)
+### [Day3](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%202-%20Resume/index.html)
+### [Day4](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%203%20-%20Clock/index.html)
+### [Day5](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%205%20-%20Simple%20Calculator/index.html)
+### [Day6](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%206%20-%20Array/index.js)
+### [Day7](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%207%20-%20Object/index.js)
+### [Day8](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%208%20-%20CSS/index.html)
+### [Day9](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%209%20-%20Seat%20Booking/index.html)
 
 <!-- ### Jekyll Themes
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sneha-jha08/Web_dev_Devsnest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
