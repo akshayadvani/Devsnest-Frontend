@@ -2,7 +2,7 @@ let square=document.querySelector(".square")
 
 console.log(square)
 
-for(let i=1;i<=300;i++){
+for(let i=1;i<=400;i++){
 	square.innerHTML+="<div class='box'></div>"
 }
 
