@@ -25,6 +25,8 @@ Syntax highlighted code block
 ### [Day7](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%207%20-%20Object/index.js)
 ### [Day8](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%208%20-%20CSS/index.html)
 ### [Day9](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%209%20-%20Seat%20Booking/index.html)
+### [Day10](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2010%20-%20Memory%20Card%20Game/index.html)
+
 
 <!-- ### Jekyll Themes
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sneha-jha08/Web_dev_Devsnest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
