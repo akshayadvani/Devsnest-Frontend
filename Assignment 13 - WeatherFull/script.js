@@ -35,7 +35,7 @@ async function getData(city){
         document.body.style.backgroundImage='URL("./images/haze.jpg")';
     }
     else if(resJson.weather[0].main=='Mist'){
-        document.body.style.backgroundImage='URL("./images.mist.jpg")';
+        document.body.style.backgroundImage='URL("./images/mist.jpg")';
     }
     else if(resJson.weather[0].main=='Thunderstrom'){
         document.body.style.backgroundImage='URL("./images/stormy.jpg")';
