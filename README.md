@@ -27,7 +27,9 @@ Syntax highlighted code block
 ### [Day9](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%209%20-%20Seat%20Booking/index.html)
 ### [Day10](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2010%20-%20Memory%20Card%20Game/index.html)
 ### [Day11](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2011%20-%20Quiz/index.html)
+### [Day12](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2012%20-%20ToDo/index.html)
 ### [Day13](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2013%20-%20WeatherFull/index.html)
+
 
 
 
