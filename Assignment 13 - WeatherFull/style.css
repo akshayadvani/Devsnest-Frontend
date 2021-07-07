@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url('main.jpg');
+    background-image: url('./images/main.jpg');
     object-fit: cover;
     width:100vw;
     height:100vh;
