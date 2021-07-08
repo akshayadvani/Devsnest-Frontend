@@ -18,8 +18,8 @@
 
 .square{
     display:grid;
-	  grid-template-columns: repeat(20, 1fr);
-	  grid-template-rows: repeat(20, 1fr);
+	  grid-template-columns: repeat(30, 1fr);
+	  grid-template-rows: repeat(30, 1fr);
 /* 	  grid-gap: 0.8px; */
     width: 100%;
     height: 100%;
@@ -35,19 +35,19 @@
 }
 
 .box{
-	background-color:	#E24E3F;
-  border: 0.1px solid rgb(253, 62, 46);
+	background-color:	white;
+  border: 0.1px solid black;
 }
 
 .changeColor{
-  background-color: rgb(255, 255, 255);
+  background-color: black;
   border: 0.1px solid white;
 }
 
 .box:hover{
   cursor: pointer;
-  background-color: rgb(255, 94, 88);
-  border: 0.1px solid rgb(255, 94, 88);
+  background-color: black;
+  border: 0.1px solid black;
 }
 
 .changeColor:hover{
