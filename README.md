@@ -29,6 +29,7 @@ Syntax highlighted code block
 ### [Day11](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2011%20-%20Quiz/index.html)
 ### [Day12](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2012%20-%20ToDo/index.html)
 ### [Day13](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2013%20-%20WeatherFull/index.html)
+### [Day14](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2014%20-Event/index.html)
 
 
 
