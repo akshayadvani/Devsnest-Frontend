@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import EvenLayer from './EvenLayer'
-import OddLayer from './OddLayer'
+import EvenLayer from './Layer1'
+import OddLayer from './Layer2'
 function Chess() {
     return (
         <Container>
