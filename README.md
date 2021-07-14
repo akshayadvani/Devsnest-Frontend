@@ -31,6 +31,7 @@ Syntax highlighted code block
 ### [Day13](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2013%20-%20WeatherFull/index.html)
 ### [Day14](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2014%20-Event/index.html)
 ### [Day17](https://caloriecounting.netlify.app/)
+### [Day18](https://caloriecountcolour.netlify.app/)
 
 
 
