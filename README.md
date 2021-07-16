@@ -30,6 +30,7 @@ Syntax highlighted code block
 ### [Day12](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2012%20-%20ToDo/index.html)
 ### [Day13](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2013%20-%20WeatherFull/index.html)
 ### [Day14](https://akshayadvani.github.io/Devsnest-Frontend/Assignment%2014%20-Event/index.html)
+### [Day16-B](https://tha16-b-chess.netlify.app/)
 ### [Day17](https://caloriecounting.netlify.app/)
 ### [Day18](https://caloriecountcolour.netlify.app/)
 
