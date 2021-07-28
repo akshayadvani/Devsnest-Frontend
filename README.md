@@ -38,6 +38,7 @@ Syntax highlighted code block
 ### [Day21](https://caloriekhaalo.netlify.app/)
 ### [Day22](https://memebanalo.netlify.app/)
 ### [Day23](https://khaanakhaakejana.netlify.app/)
+### [Day24](https://tha-bann-gaya.netlify.app/)
 
 
 
